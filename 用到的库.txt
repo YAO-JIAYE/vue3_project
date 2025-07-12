@@ -1,0 +1,6 @@
+nanoid // 随机字符串生成库
+axios // 异步请求库
+vue-router // 路由管理库
+pinia // 状态管理库
+vite-plugin-vue-setup-extend // 指定组件名字的插件
+mitt // 事件管理库
